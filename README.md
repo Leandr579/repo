@@ -13,4 +13,4 @@ Busco constantemente resolver problemas complejos mediante código limpio y arqu
 
 **[Laboratorio de Algoritmos/Datos]**: Colección de scripts y modelos aplicando conceptos de álgebra y estadística para el análisis de información y toma de decisiones. (Opcional, si tienes algo así planeado).
 
-📫 **Conectemos:** [Tu enlace a LinkedIn o Correo]
+📫 **Conectemos:** [www.linkedin.com/in/leandro-castro-90-]
